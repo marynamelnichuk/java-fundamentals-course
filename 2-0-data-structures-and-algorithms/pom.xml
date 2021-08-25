@@ -12,6 +12,7 @@
         <module>2-2-5-array-list</module>
         <module>2-2-6-binary-search-tree</module>
         <module>data-structures-and-algorithms-util</module>
+        <module>2-2-7-sorting-algorithms</module>
     </modules>
 
     <parent>

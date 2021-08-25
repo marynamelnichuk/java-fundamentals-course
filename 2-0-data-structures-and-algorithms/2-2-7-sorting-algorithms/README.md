@@ -1,4 +1,5 @@
-####Merge sort
+#### Merge sort
+
 *Worst-case performance:O(n\*log n)*
 
 *Average-case performance:O(n\*log n)*
@@ -14,7 +15,8 @@ __Merge sort__ - recursive algorithm that divides a given array into subarrays, 
 - Works better on large arrays than *Insertion sort*.
 - Cannot dynamically add new elements to the array during sorting.
 
-####Insertion sort
+#### Insertion sort
+
 *Worst-case performance:O(n^2)*
 
 *Average-case performance:O(n^2)*

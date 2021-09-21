@@ -25,6 +25,7 @@
         <module>6-0-test-driven-development</module>
         <module>java-fundamentals-util</module>
         <module>2-0-data-structures-and-algorithms/untitled</module>
+        <module>lesson-demo</module>
     </modules>
 
     <dependencies>
